@@ -39,10 +39,10 @@ const callGenerateEndpoint = async () => {
       <div className="container">
         <div className="header">
           <div className="header-title">
-            <h1>Generate a short summary of any YouTube video you like!</h1>
+            <h1>AI SQL Generator by Milan!</h1>
           </div>
           <div className="header-subtitle">
-            <h2>Enter the title of the YouTube video and let the tool do the rest of the work for you 😉</h2>
+            <h2>Enter english prompts and the tool will generate Sql Queries for you😉</h2>
           </div>
         </div>
         <div className="prompt-container">
